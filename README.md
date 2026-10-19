@@ -20,5 +20,8 @@ Open [`analysis/notebooks/ames_housing_exploration.ipynb`](analysis/notebooks/am
 
 - [`analysis/outputs/tables/neighborhood_adjusted_summary.csv`](analysis/outputs/tables/neighborhood_adjusted_summary.csv) — neighborhood counts, unadjusted medians, and model-adjusted estimates.
 - [`analysis/outputs/figures/neighborhood_adjusted_prices.png`](analysis/outputs/figures/neighborhood_adjusted_prices.png) — observed neighborhood medians compared with prices adjusted for living area.
-- [`prompts/01_final_analysis.md`](prompts/01_final_analysis.md) — selected analytical prompt and method.
+- [`prompts/session-history.md`](prompts/session-history.md) — chronological prompt history.
+- [prompts/01_final_analysis.md](prompts/01_final_analysis.md) — selected analytical prompt and method.
 - [`log/ai-workflow-log.md`](log/ai-workflow-log.md) — accepted, modified, and rejected work with rationale.
+
+
